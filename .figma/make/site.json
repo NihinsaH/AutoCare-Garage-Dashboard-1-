@@ -1,0 +1,10 @@
+{
+  "description": "Manage garage repairs, customers, vehicles, inventory, invoices, and payments in one dashboard, helping Sri Lankan garage teams track jobs and finances.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
